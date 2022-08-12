@@ -1,0 +1,15 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\bin\Debug\Timer_ile_Renklendirme.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\bin\Debug\Timer_ile_Renklendirme.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\bin\Debug\Timer_ile_Renklendirme.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\obj\Debug\Timer_ile_Renklendirme.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\obj\Debug\Timer_ile_Renklendirme.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\obj\Debug\Timer_ile_Renklendirme.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\obj\Debug\Timer_ile_Renklendirme.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\obj\Debug\Timer_ile_Renklendirme.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\obj\Debug\Timer_ile_Renklendirme.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\obj\Debug\Timer_ile_Renklendirme.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\obj\Debug\Interop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\obj\Debug\Timer_ile_Renklendirme.csproj.ResolveComReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\bin\Debug\Interop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Timer_ile_Renklendirme\bin\Debug\AxInterop.WMPLib.dll
